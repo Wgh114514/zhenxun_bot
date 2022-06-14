@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "zhenxun_bot"
+name = "sesezi_bot"
 version = "0.1.1"
 description = "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot"
 authors = ["HibiKier <775757368@qq.com>"]
 license = "AGPL"
 
 [[tool.poetry.source]]
-name = "ali"
+name = "涩涩子"
 default = true
 url = "https://mirrors.aliyun.com/pypi/simple/"
 
